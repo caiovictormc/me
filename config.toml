@@ -1,4 +1,4 @@
-baseurl = "https://caiovictormc.github.io/" # Hostname (and path) to the root.
+baseurl = "https://caiovictormc.github.io" # Hostname (and path) to the root.
 title = "Caio Victor" # Site title.
 theme = "hugo-coder"
 languagecode = "en" # The site’s language code used to generate RSS.
