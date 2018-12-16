@@ -9,7 +9,7 @@ paginate = 20 # Default number of pages per page in pagination.
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "disqus_rXfHxWJzsM" # Enable or disable Disqus.
+disqusShortname = "https-caiovictormc-github-io" # Enable or disable Disqus.
 
 [params] # theme parameters
     author = "Caio Victor" # Author's name.
