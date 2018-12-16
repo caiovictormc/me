@@ -1,10 +1,10 @@
 +++ 
-draft = true
-date = 2018-11-15T12:27:33-03:00
-title = "Command-line Utilities"
-slug = "command-line-utilities"
+draft = false
+date = 2018-12-16T12:27:33-03:00
+title = "Terminal Tips"
+slug = "terminal-tips"
 categories = ["terminal", "linux"]
-description = "Command-line Utilities"
+description = "Terminal Tips"
 +++
 
 #### Text search in files
