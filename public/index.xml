@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Caio Victor</title>
+    <link>http://www.example.com/</link>
+    <description>Recent content on Caio Victor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>http://www.example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/about/</guid>
+      <description>Co-founder at CanionLabs, developer and open source enthusiast. I currently work with development of integration and analysis services for IoT.
+Main Technologies:
+ Linux Docker Python Javascript Web Development  </description>
+    </item>
+    
+  </channel>
+</rss>
