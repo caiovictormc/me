@@ -3,7 +3,7 @@ categories = ["terminal", "linux"]
 date = 2018-12-16T15:27:33Z
 description = "Terminal Tips"
 slug = "terminal-tips"
-title = "Terminal Tips"
+title = "Terminal Tips teste"
 
 +++
 #### Text search in files / Teste
